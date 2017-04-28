@@ -1,0 +1,19 @@
+body {
+    font-family: 'Roboto', serif;
+}
+
+.bean {
+  height: 25%;
+   width: 25%;
+ }
+.bean > img
+{height: 146px;
+ width: 146px%;
+padding: 18px;
+}
+
+.masthead img {
+  margin: 10px auto;
+  width: 98%;
+  padding: 60px;
+}
