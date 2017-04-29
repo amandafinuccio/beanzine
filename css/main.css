@@ -1,10 +1,14 @@
 body {
     font-family: 'Roboto', serif;
+    font-size: 12pt;
+    text-align: center;
+    text-transform: lowercase;
 }
 
 .bean {
   height: 25%;
    width: 25%;
+
  }
 .bean > img
 {height: 146px;
